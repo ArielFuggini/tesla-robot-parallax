@@ -1,0 +1,13 @@
+{
+  "name": "tesla-robot",
+  "port": 3003,
+  "subdomain": "robot",
+  "backend": {
+    "enabled": true,
+    "path": "./",
+    "start": "npm start"
+  },
+  "frontend": {
+    "enabled": false
+  }
+}

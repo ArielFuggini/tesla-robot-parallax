@@ -1,0 +1,17 @@
+{
+  "name": "tesla-robot-parallax",
+  "version": "1.0.0",
+  "description": "Tesla Optimus humanoid robot parallax scroll demo with Three.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["three.js", "robot", "parallax", "tesla", "optimus"],
+  "author": "Ariel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
